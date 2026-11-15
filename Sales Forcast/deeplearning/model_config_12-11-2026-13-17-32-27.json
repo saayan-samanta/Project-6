@@ -1,0 +1,19 @@
+{
+    "model_name": "Recurrent LSTM",
+    "timestamp": "12-11-2026-13-17-32-27",
+    "window_size": 7,
+    "input_features": 1,
+    "lstm_layers": 2,
+    "first_lstm_units": 64,
+    "second_lstm_units": 32,
+    "dropout": 0.2,
+    "optimizer": "adam",
+    "loss": "mse",
+    "scaling_range": [
+        -1,
+        1
+    ],
+    "validation_start": "2015-07-01",
+    "completed_epochs": 9,
+    "best_validation_loss": 0.0034280831459909678
+}

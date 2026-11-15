@@ -1,0 +1,39 @@
+{
+    "model_name": "Customers LSTM",
+    "target": "Customers",
+    "input_features": [
+        "Customers"
+    ],
+    "window_size": 7,
+    "input_shape": [
+        7,
+        1
+    ],
+    "architecture": {
+        "lstm_layer_1": 64,
+        "lstm_layer_2": 32,
+        "dropout": 0.2,
+        "output_units": 1
+    },
+    "optimizer": "adam",
+    "loss": "mse",
+    "scaling": {
+        "method": "MinMaxScaler",
+        "feature_range": [
+            -1,
+            1
+        ]
+    },
+    "validation_start": "2015-07-01",
+    "training_samples": 973579,
+    "validation_samples": 34565,
+    "epochs_completed": 10,
+    "best_validation_loss": 0.0008894498459994793,
+    "metrics": {
+        "MAE": 75.61170959472656,
+        "RMSE": 110.14799171171937,
+        "RMSPE": 15.091729164123535,
+        "R2": 0.9359421730041504
+    },
+    "timestamp": "15-11-2026-22-57-11-00"
+}
