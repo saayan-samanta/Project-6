@@ -313,23 +313,25 @@ The Streamlit application provides a user interface for generating forecasts wit
 
 #### 1. Dashboard Home
 
-![Dashboard Home](screenshots/dashboard/dashboard_home.png)
+![Dashboard Home](Dhashboard_pics/dashboard.png)
 
 #### 2. Model Performance Comparison
 
-![Model Performance](screenshots/dashboard/model_performance.png)
+![Model Performance](Dhashboard_pics/model_compare.png)
 
 #### 3. Store Information & CSV Upload
 
-![Input and Upload](screenshots/dashboard/input_upload.png)
+![Input and Upload](Dhashboard_pics/sales_predict-1.png)
+![Input and Upload](Dhashboard_pics/sp2.png)
+![Input and Upload](Dhashboard_pics/sp3.png)
 
 #### 4. Sales Forecasting Results
 
-![Sales Forecast](screenshots/dashboard/sales_forecast.png)
+![Sales Forecast](Dhashboard_pics/sp4.png)
 
 #### 5. Customer Forecasting Results
 
-![Customer Forecast](screenshots/dashboard/customer_forecast.png)
+![Customer Forecast](Dhashboard_pics/sp5.png)
 
 > The image paths above are placeholders. Add your screenshots using the same filenames or change the Markdown paths to match your files.
 
@@ -471,8 +473,8 @@ streamlit run app.py
 
 *Aspiring Data Scientist | Python | Machine Learning | Deep Learning | Data Analytics*
 
-- GitHub: [YOUR_GITHUB_PROFILE](https://github.com/YOUR_USERNAME)
-- LinkedIn: [YOUR_LINKEDIN_PROFILE](https://www.linkedin.com/)
+- GitHub: [saayan-samanta](https://github.com/saayan-samanta)
+- LinkedIn: [saayan-samanta-103788261](https://www.linkedin.com/in/saayan-samanta-103788261/)
 
 ---
 
